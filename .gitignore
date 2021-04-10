@@ -137,3 +137,7 @@ dmypy.json
 .gitignore
 
 test
+
+.DS*
+.gitignore
+.gitignore*
